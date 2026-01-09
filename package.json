@@ -1,6 +1,10 @@
 {
   "name": "@garevalo1994/giodateformate",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GArevalo1994/PLATZIDATE"
+  },
   "description": "",
   "main": "src/index.js",
   "scripts": {
